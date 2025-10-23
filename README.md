@@ -1,4 +1,4 @@
-# Vectera Coding Test — Starter (Core Only)
+# Vectera Coding Test
 
 This repo contains the **basics** for the coding test. It includes:
 - **Backend**: Django + DRF skeleton with stubs and TODOs
@@ -28,7 +28,7 @@ npm start
 ```
 - Angular dev server: http://localhost:4200 (proxies /api to http://localhost:8000)
 
-### 3) What you implement (Core)
+### 3) What you implement
 Backend (Django + DRF):
 - Data models for `Meeting`, `Note`, `Summary`
 - REST endpoints for meetings, notes, and summary flow
